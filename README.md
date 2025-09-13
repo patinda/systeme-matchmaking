@@ -194,14 +194,6 @@ src/
 - **Ali → Ahmed** : Match parfait (100%) - matière + niveau + disponibilité
 - **Yasmine → Sarah** : Match parfait (100%) - matière + niveau + disponibilité
 
-## 🎯 Critères d'évaluation
-
-- ✅ **Structure du code** : Code lisible, bien organisé, commenté
-- ✅ **Modèle de données** : Structure pertinente et extensible
-- ✅ **Algorithme de mise en relation** : Logique claire et efficace
-- ✅ **Design** : Interface simple et intuitive
-- ✅ **Créativité** : Fonctionnalités bonus et améliorations
-
 ## 📝 Déploiement
 
 Le projet est prêt pour le déploiement sur Vercel :
